@@ -33,6 +33,10 @@ Cliente cli;
         
     <% } %> <!-- LLave del else -->
     
+    <form action="index.html" method="post">
+        <input type="submit" name="btnVolver" value="volver"/>
+    </form>
+        
 </body>
 </html>
 
